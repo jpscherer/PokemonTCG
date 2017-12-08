@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\gabriela.sena\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\gabriela.sena\Downloads\android-BluetoothChat-master2\android-BluetoothChat-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.1.0_6b961adbaa9b635ffcfcd7d01a7c0cdc4d932a79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gabriela.sena\.android\build-cache\feba20bed951e4f5baa988b0ecdbd63a58d58362\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="C:\Users\gabriela.sena\Downloads\android-BluetoothChat-master2\android-BluetoothChat-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0753df0048f4ce9fa73aa29e08872d80b3572b07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gabriela.sena\.android\build-cache\a1ee222542a07518c5fb4fb7811d14d60056e34a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\gabriela.sena\Downloads\android-BluetoothChat-master2\android-BluetoothChat-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_44c55f52d1bd031d661e0bef76b7f7f83b7ef4cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gabriela.sena\.android\build-cache\a02789fb7527655886169e4ea06e38bbfeef5342\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\gabriela.sena\Downloads\android-BluetoothChat-master2\android-BluetoothChat-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7e03b9c413038bcdd0ee5203fa0d7412d603954d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gabriela.sena\.android\build-cache\3662435a410bfcb7fa53efb48e39e80817b1466b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\gabriela.sena\Downloads\android-BluetoothChat-master2\android-BluetoothChat-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3121ded216af9fdb5597b0fc4925cc3682bed861\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gabriela.sena\.android\build-cache\c1c4ce7eae449af171de6a26e6eae9c37f2d31c0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\gabriela.sena\Downloads\android-BluetoothChat-master2\android-BluetoothChat-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b62623e3d3bad5dd5172ef56ec69cbcf0f673450\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gabriela.sena\.android\build-cache\b7d2281004a58ad48d8090c2ace7bf5f4ffafc53\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\gabriela.sena\Downloads\android-BluetoothChat-master2\android-BluetoothChat-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2ef139dfa0a36ea27414235ab5c013d5b6e48e9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gabriela.sena\.android\build-cache\e557fdd2922843aeb04117c43757aa39bd4a5718\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\gabriela.sena\Downloads\android-BluetoothChat-master2\android-BluetoothChat-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6f5f711ebe0ce4f77cb93adb6004028f079ec122\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gabriela.sena\.android\build-cache\d48bbb0c5784d6e6ecfd014d4a9d7ded2d2115d7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\gabriela.sena\Downloads\android-BluetoothChat-master2\android-BluetoothChat-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a58ae2b59fde5826194044cb669bfbf06ae8bfaf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gabriela.sena\.android\build-cache\d6fe7ccb0d0586dc08e7f80563df07887e809023\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a3e3d3c94305c63a7d6d267cd2b54ec5f9222d31">
+        <dex dex="C:\Users\gabriela.sena\Downloads\android-BluetoothChat-master2\android-BluetoothChat-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f73971b117c7c6cf92f57cb9dd1e2ae3759fb4c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gabriela.sena\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\gabriela.sena\Downloads\android-BluetoothChat-master2\android-BluetoothChat-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_d6de663acc98d72ba16f92b82a6b6a48b8bb1253\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gabriela.sena\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\gabriela.sena\Downloads\android-BluetoothChat-master2\android-BluetoothChat-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_b972e682182452ae7a099bd5373fec2fb2d403d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gabriela.sena\.android\build-cache\2d15208dee1729f173048cb1b67a23f6b166539f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\gabriela.sena\Downloads\android-BluetoothChat-master2\android-BluetoothChat-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f0051cc49761ed6625069331f0eb873a473d1aae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gabriela.sena\.android\build-cache\0d35e4035add3aa54154753f7c2c8fb3efc7f9ea\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\gabriela.sena\Downloads\android-BluetoothChat-master2\android-BluetoothChat-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8e2ef3f5da55cb8a066889496772724514e7dddc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gabriela.sena\Downloads\android-BluetoothChat-master2\android-BluetoothChat-master\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\gabriela.sena\Downloads\android-BluetoothChat-master2\android-BluetoothChat-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b354290031c9bcf180c7d2424c9d89c3290e7987\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gabriela.sena\Downloads\android-BluetoothChat-master2\android-BluetoothChat-master\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="53af873a57ac63873a3d541e3ad6bcdccacf694c">
+        <dex dex="C:\Users\gabriela.sena\Downloads\android-BluetoothChat-master2\android-BluetoothChat-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_90dedefb3906e782a4018ad08face9b94778673f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gabriela.sena\.android\build-cache\23b1206cf65258eda9f2234622e7c246edc5b6ba\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\gabriela.sena\Downloads\android-BluetoothChat-master2\android-BluetoothChat-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_68d83adfa729ee85071dcba7408d41af3770b480\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Fri Dec 08 18:53:05 BRST 2017
+base.0=C\:\\Users\\gabriela.sena\\Downloads\\android-BluetoothChat-master2\\android-BluetoothChat-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_90dedefb3906e782a4018ad08face9b94778673f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\gabriela.sena\\Downloads\\android-BluetoothChat-master2\\android-BluetoothChat-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b354290031c9bcf180c7d2424c9d89c3290e7987\\classes.dex
+base.1=C\:\\Users\\gabriela.sena\\Downloads\\android-BluetoothChat-master2\\android-BluetoothChat-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b354290031c9bcf180c7d2424c9d89c3290e7987
+file.0=C\:\\Users\\gabriela.sena\\Downloads\\android-BluetoothChat-master2\\android-BluetoothChat-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_90dedefb3906e782a4018ad08face9b94778673f\\classes.dex
